@@ -7,39 +7,39 @@ import { motion, AnimatePresence } from 'framer-motion'
 const galleryImages = [
   {
     id: 1,
-    src: 'https://images.unsplash.com/photo-1482938289607-e9573fc25ebb?w=800&q=80',
-    alt: 'Winter festival snowflake decorations',
-    title: 'Magical Decorations'
+    src: 'https://images.unsplash.com/photo-1482938289607-e9573fc25ebb?w=800&h=600&fit=crop&auto=format&q=80',
+    alt: 'Beautiful winter festival decorations with twinkling lights',
+    title: 'Magical Winter Decorations'
   },
   {
     id: 2,
-    src: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&q=80',
-    alt: 'Hot cocoa with marshmallows',
-    title: 'Warm Cocoa Station'
+    src: 'https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=600&fit=crop&auto=format&q=80',
+    alt: 'Steaming hot cocoa with marshmallows in winter setting',
+    title: 'Cozy Cocoa Station'
   },
   {
     id: 3,
-    src: 'https://images.unsplash.com/photo-1544537150-6e4b999de2a2?w=800&q=80',
-    alt: 'Fortune teller with crystal ball',
+    src: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop&auto=format&q=80',
+    alt: 'Crystal ball fortune telling session',
     title: 'Mystical Fortune Telling'
   },
   {
     id: 4,
-    src: 'https://images.unsplash.com/photo-1512389142860-9c449e58a543?w=800&q=80',
-    alt: 'Storytelling by candlelight',
-    title: 'Enchanting Stories'
+    src: 'https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=600&fit=crop&auto=format&q=80',
+    alt: 'Cozy storytelling around winter campfire',
+    title: 'Enchanting Winter Stories'
   },
   {
     id: 5,
-    src: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&q=80',
-    alt: 'Winter festival activities',
-    title: 'Family Fun Activities'
+    src: 'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop&auto=format&q=80',
+    alt: 'Families enjoying winter festival activities',
+    title: 'Family Winter Fun'
   },
   {
     id: 6,
-    src: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&q=80',
-    alt: 'Ice sculptures',
-    title: 'Beautiful Ice Art'
+    src: 'https://images.unsplash.com/photo-1516685018646-549198525c1b?w=800&h=600&fit=crop&auto=format&q=80',
+    alt: 'Beautiful ice sculptures at winter festival',
+    title: 'Stunning Ice Art'
   }
 ]
 
